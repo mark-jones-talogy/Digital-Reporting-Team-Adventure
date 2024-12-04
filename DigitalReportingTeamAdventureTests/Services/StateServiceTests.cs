@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DigitalReportingTeamAdventure.Services.UnitTests
+namespace DigitalReportingTeamAdventureTests.Services
 {
     [TestClass()]
     public class StateServiceTests

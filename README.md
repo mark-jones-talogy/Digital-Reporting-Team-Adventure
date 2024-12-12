@@ -1,10 +1,10 @@
 # Create a Digital Reporting Team Adventure Game
 
-Can you create a Text based Adventure fro mthe following spec?
+Can you create a Text based Adventure from the following spec?
 
 Or maybe do a code review of my attempt in the branch [marks_solution](https://github.com/mark-jones-talogy/Digital-Reporting-Team-Adventure/tree/marks_solution)
 
-Or just play Marks game and see if you can break it.
+Or just play my game and see if you can break it.
 
 ## The Vague Spec
 
